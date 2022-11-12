@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anderson Pereira Braga</h1>
 <h3 align="center">A web developer from brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anderson-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="anderson-pixel" /> </p>
-
 - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-mocha-78.vercel.app/](https://portfolio-five-mocha-78.vercel.app/)
