@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-anderson-pixel.vercel.app/](https://portfolio-five-mocha-78.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-anderson-pixel.vercel.app/](https://portfolio-anderson-pixel.vercel.app/)
 
 - 📫 How to reach me **anderson.ap133@gmail.com**
 
