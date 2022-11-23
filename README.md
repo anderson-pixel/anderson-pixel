@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anderson Pereira Braga</h1>
 <h3 align="center">A web developer from brazil</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **MySQL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-mocha-78.vercel.app/](https://portfolio-five-mocha-78.vercel.app/)
 
