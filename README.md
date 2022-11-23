@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-mocha-78.vercel.app/](https://portfolio-five-mocha-78.vercel.app/)
-
 - 📫 How to reach me **anderson.ap133@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
