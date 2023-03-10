@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anderson Pereira Braga</h1>
 <h3 align="center">A web developer from brazil</h3>
 
-- 🌱 I’m currently learning **Postgres**
-
 - 📫 How to reach me **anderson.ap133@gmail.com**
 
 <div align="start">
